@@ -5,7 +5,6 @@ description = "A Python library to integrate Notion and NeuroBlueprint"
 readme = "README.md"
 requires-python = ">=3.9.0"
 dynamic = ["version"]
-version = "0.1.0"
 
 dependencies = ["pathlib", "pandas", "glob2", "notion-client"]
 
